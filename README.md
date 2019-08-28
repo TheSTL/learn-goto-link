@@ -9,6 +9,8 @@
 
 [Why-react-hooks](https://tylermcginnis.com/why-react-hooks/)
 
+[usehooks/useMemo](https://usehooks.com/useMemo/)
+
 [Airbnb(JavaScript Style Guide)](https://github.com/airbnb/javascript)
 
 [ESLint-prettier-&-airbnb-style-guide-setup](https://www.youtube.com/watch?v=SydnKbGc7W8&t=938s)
