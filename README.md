@@ -23,6 +23,10 @@ loaded and displayed](https://varvy.com/pagespeed/display.html)
 
 [How-to-create-cron-jobs](https://scotch.io/tutorials/nodejs-cron-jobs-by-examples)
 
+[worker_thread](https://medium.com/@Trott/using-worker-threads-in-node-js-80494136dbb6)
+
+[event Emitter](https://cloudnweb.dev/2019/08/understanding-eventemitter-in-node-js-with-a-usecase/)
+
 ## Mysql 
 
 ## Git 
