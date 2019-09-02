@@ -29,7 +29,8 @@ loaded and displayed](https://varvy.com/pagespeed/display.html)
 
 [setImmediate() vs nextTick() vs setTimeout(fn,0)](http://voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/)
 
-[nodejs event loop](http://voidcanvas.com/nodejs-event-loop/)
+[1.nodejs event loop](http://voidcanvas.com/nodejs-event-loop/)
+[2.nodejs event loop](https://blog.insiderattack.net/handling-io-nodejs-event-loop-part-4-418062f917d1)
 
 ## Mysql 
 
