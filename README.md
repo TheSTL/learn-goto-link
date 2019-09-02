@@ -27,6 +27,10 @@ loaded and displayed](https://varvy.com/pagespeed/display.html)
 
 [event Emitter](https://cloudnweb.dev/2019/08/understanding-eventemitter-in-node-js-with-a-usecase/)
 
+[setImmediate() vs nextTick() vs setTimeout(fn,0)](http://voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/)
+
+[nodejs event loop](http://voidcanvas.com/nodejs-event-loop/)
+
 ## Mysql 
 
 ## Git 
