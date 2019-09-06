@@ -6,6 +6,11 @@ loaded and displayed](https://varvy.com/pagespeed/display.html)
 
 [A Beginner's Guide to JavaScript's Prototype](https://tylermcginnis.com/beginners-guide-to-javascript-prototype/)
 
+
+[Loop-perfomance](https://theuidev.github.io/blog/2017/06/19/js-for-loop-code-performance) 
+[Loop-performance-answer](https://stackoverflow.com/questions/1340589/are-loops-really-faster-in-reverse)
+
+
 ## Reactjs
 [Redux-playlist](https://www.youtube.com/watch?v=7Erbf5NXQQw&list=PL7pEw9n3GkoWgIc-Ambc-QZGcTKEei2O3)
 
