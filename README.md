@@ -24,6 +24,8 @@ loaded and displayed](https://varvy.com/pagespeed/display.html)
 
 [Compiling vs Polyfills](https://tylermcginnis.com/compiling-polyfills/)
 
+[virtual-dom-in-reactjs](https://medium.com/hackernoon/virtual-dom-in-reactjs-43a3fdb1d130)
+
 ## Nodejs 
 
 [How-to-create-cron-jobs](https://scotch.io/tutorials/nodejs-cron-jobs-by-examples)
