@@ -5,6 +5,7 @@ loaded and displayed](https://varvy.com/pagespeed/display.html)
 ## Javascript
 
 [A Beginner's Guide to JavaScript's Prototype](https://tylermcginnis.com/beginners-guide-to-javascript-prototype/)
+[prototypes-in-javascript](https://medium.com/better-programming/prototypes-in-javascript-5bba2990e04b)
 
 
 [Loop-perfomance](https://theuidev.github.io/blog/2017/06/19/js-for-loop-code-performance) 
