@@ -1,5 +1,6 @@
 # Learn concepts.
-[How a webpage is 
+
+[How a webpage is
 loaded and displayed](https://varvy.com/pagespeed/display.html)
 
 ## Javascript
@@ -7,12 +8,11 @@ loaded and displayed](https://varvy.com/pagespeed/display.html)
 [A Beginner's Guide to JavaScript's Prototype](https://tylermcginnis.com/beginners-guide-to-javascript-prototype/)
 [prototypes-in-javascript](https://medium.com/better-programming/prototypes-in-javascript-5bba2990e04b)
 
-
-[Loop-perfomance](https://theuidev.github.io/blog/2017/06/19/js-for-loop-code-performance) 
+[Loop-perfomance](https://theuidev.github.io/blog/2017/06/19/js-for-loop-code-performance)
 [Loop-performance-answer](https://stackoverflow.com/questions/1340589/are-loops-really-faster-in-reverse)
 
-
 ## Reactjs
+
 [Redux-playlist](https://www.youtube.com/watch?v=7Erbf5NXQQw&list=PL7pEw9n3GkoWgIc-Ambc-QZGcTKEei2O3)
 
 [Why-react-hooks](https://tylermcginnis.com/why-react-hooks/)
@@ -29,7 +29,7 @@ loaded and displayed](https://varvy.com/pagespeed/display.html)
 
 [reactjs-questions-answers](https://github.com/asifvora/reactjs-questions-answers)
 
-## Nodejs 
+## Nodejs
 
 [How-to-create-cron-jobs](https://scotch.io/tutorials/nodejs-cron-jobs-by-examples)
 
@@ -45,9 +45,9 @@ loaded and displayed](https://varvy.com/pagespeed/display.html)
 
 [3.nodejs event loop](https://blog.insiderattack.net/handling-io-nodejs-event-loop-part-4-418062f917d1)
 
-## Mysql 
+## Mysql
 
-## Git 
+## Git
 
 [Learn-git-for-beginer](https://www.youtube.com/watch?v=D3RVdblCmk0)
 
@@ -65,7 +65,9 @@ loaded and displayed](https://varvy.com/pagespeed/display.html)
 
 ## Tools/Extension
 
-1.Octotree - It adds a treeview navigation control to GitHub repositories, making it much easier to navigate around larger projects. 
+1. Octotree - It adds a treeview navigation control to GitHub repositories, making it much easier to navigate around larger projects.
+
+2. [Hihayk](https://hihayk.github.io/scale/#4/6/50/80/0/0/20/50/C71E68/199/30/104/white) - To create a set of colors.
 
 ## Interview Questions
 
